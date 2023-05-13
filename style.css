@@ -1,0 +1,14 @@
+body{
+    background-color: royalblue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 24%;
+    height: 250px;
+    margin: 1px;
+    border-radius: 12px;
+}
+img:hover{
+    transform: scale(1.2);
+}
